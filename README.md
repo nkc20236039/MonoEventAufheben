@@ -1,6 +1,6 @@
 # MonoEventAufheben
 DOTSを利用する場合に有効で、`HighPerformanceCShape`からオブジェクト指向CShape(MonoBehaviourなど)へイベントを送信することが可能です。  
-ピュアC#にも対応している他、(恐らく)マルチスレッドからのイベント送信にも対応しています。
+ピュアC#にも対応している他、マルチスレッドからのイベント送信にも対応しています。
 
 # 使い方
 1. Unity packageから必要なものをインストールする
